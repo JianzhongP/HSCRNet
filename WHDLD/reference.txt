@@ -1,0 +1,5 @@
+https://sites.google.com/view/zhouwx/dataset?authuser=0#h.p_ebsAS1Bikmkd
+
+Shao, Z.; Yang, K.; Zhou, W. Performance Evaluation of Single-Label and Multi-Label Remote Sensing Image Retrieval Using a Dense Labeling Dataset. Remote Sens. 2018, 10(6), 964.
+
+Shao, Z., Zhou, W., Deng, X., Zhang, M., & Cheng, Q. Multilabel Remote Sensing Image Retrieval Based on Fully Convolutional Network. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, 13, 318-328. 
