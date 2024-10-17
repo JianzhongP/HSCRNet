@@ -17,3 +17,15 @@ Link: https://pan.baidu.com/s/11YIqiWJRccwRiSNg56NK-w
 Extraction Code: seaq
 
 Usage:
+====
+Installation
+----
+Please download the dataset and code support package by code yourself.
+
+Training
+----
+```bash
+#Training command
+python train.py
+#Distributed training command
+CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 train.py
